@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod ugo+x hello echo -e #!/bin/bash
 chmod ug+x,o+r hello
